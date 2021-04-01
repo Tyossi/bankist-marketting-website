@@ -1,7 +1,7 @@
-# hairWays barbing salon
-A landing page for a fictitious barbing salon business.
+# Bankist
+A landing page for a fictitious commercial bank.
 
-https://hairwayslandingpage.netlify.app/
+https://bankkist.netlify.app/
 
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 # Installing
 Clone the repo
 
-git clone https://github.com/Tyossi/salon-landing-page.git
+git clone https://github.com/Tyossi/bankist-marketting-website.git
 
 Explore
 
@@ -21,9 +21,10 @@ CSS
 
 SASS - CSS Pre-Processor used
 
-Figma - Design platform used
+Javascript
+
 ## Contributors
 Toyosi Ogundairo
 ### License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project was originally built by Jonas Schmedtman and this is a reproduction of it by Toyosi Ogundairo.
 
