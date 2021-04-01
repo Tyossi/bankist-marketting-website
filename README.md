@@ -23,8 +23,6 @@ SASS - CSS Pre-Processor used
 
 Javascript
 
-## Contributors
-Toyosi Ogundairo
 ### License
 This project was originally built by Jonas Schmedtman and this is a reproduction of it by Toyosi Ogundairo.
 
